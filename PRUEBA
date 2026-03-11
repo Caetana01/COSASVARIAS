@@ -1,0 +1,23 @@
+# Mi Proyecto
+
+Este es un repositorio de práctica.
+
+##Autor##
+Nombre Apellido
+
+## Descripción
+Repositorio creado para aprender GitHub y Markdown.
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mi primera página</title>
+</head>
+
+<body>
+
+<h1>Hola Mundo</h1>
+<p>Esta es mi primera página HTML.</p>
+
+</body>
+</html>
